@@ -2,7 +2,7 @@
 
 This is a simple **Spring Boot web application** that demonstrates how to build a form, handle user input, and render results dynamically with **Thymeleaf templates**.  
 
-The project was generated with **Spring Initializr**, written in **Java**, and packaged using **Maven**.
+The project was generated with **Spring Initializr**, written in **Java**, and packaged using **Maven**. This application remains under continued development and will soon be containerized and deployed to AWS. 
 
 ---
 
